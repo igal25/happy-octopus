@@ -1,0 +1,15 @@
+hey we'll start from the back bone of the games -- THE UI --
+
+Goals:
+1 - Understand the Basics of Unity UI: The developer should be able to understand the basic components of Unity UI such as Canvas, Panels, Buttons, Text, Images, Sliders, etc.
+2 - Design and Implement UI: The developer should be able to design and implement a user-friendly UI for a game.
+3 - Interactivity: The developer should be able to make the UI interactive, i.e., respond to user inputs.
+4 - UI Animations: The developer should be able to create simple animations for the UI to enhance the user experience.
+Missions:
+
+Mission 1 - Basic UI Components: Create a scene in Unity and add basic UI components like Canvas, Panel, Button, Text, Image, etc. Familiarize yourself with the properties of these components - use TMP (WTF is TMP?).
+Mission 2 - Design a Main Menu: Design a main menu for a hypothetical game. It should include buttons for “Start Game”, “Settings”, “Leaderboard”, and “Quit”. Also, include a game title and some images to make it visually appealing.
+Mission 3 - Button Interactions: Make the buttons on the main menu interactive. “Start Game” button could print a message in the console, “Settings” could open a settings panel, “Leaderboard” could open a leaderboard panel, and “Quit” could quit the application.
+Mission 4 - Settings Panel: In the settings panel, include options to control game settings like volume, difficulty, etc. Use sliders, dropdowns, toggles, etc., as necessary.
+Mission 5 - UI Animations: Add animations to the UI. For example, buttons could change color when hovered over, settings panel could slide in from the side, etc.
+Mission 6 - Responsive UI: Make the UI responsive, i.e., it should look good on different screen resolutions and aspect ratios.
