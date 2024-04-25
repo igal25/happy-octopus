@@ -1,0 +1,11 @@
+Goals:
+1 - Understand MongoDB: The developer should understand the basics of MongoDB, including how to create, read, update, and delete data.
+2 - Connect MongoDB with Unity: The developer should be able to connect a Unity game with a MongoDB database.
+3 - Implement Game Features Using MongoDB: The developer should be able to implement game features like user profiles, leaderboards, and game state saving using MongoDB.
+
+Missions:
+Mission 1 - MongoDB Basics: Start by learning the basics of MongoDB1[1]2[2]33. Understand how to create, read, update, and delete data in MongoDB.
+Mission 2 - Connect MongoDB with Unity: Learn how to connect a Unity game with a MongoDB database4[4]55. This will involve writing a script in Unity to interact with the MongoDB database.
+Mission 3 - User Profiles: Implement user profiles in your game. When a player starts the game, they should be able to enter a username. This username should be stored in the MongoDB database. If the username already exists, load the corresponding user profile.
+Mission 4 - Leaderboards: Implement a leaderboard in your game. After each game, the player’s score should be sent to the MongoDB database. The leaderboard should display the top 10 players based on their scores.
+Mission 5 - Game State Saving: Implement game state saving in your game. When a player quits the game, their current game state should be saved to the MongoDB database. When they start the game again, they should be able to continue from where they left off.
