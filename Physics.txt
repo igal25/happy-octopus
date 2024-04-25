@@ -1,0 +1,16 @@
+Goals:
+1 - Understand Unity’s Physics Engine: The developer should understand how Unity’s physics engine works, including concepts like gravity, forces, and collisions14.
+2 - Work with Game Objects: The developer should be able to create and manipulate 3D and 2D game objects in Unity210.
+3 - Understand and Implement Colliders: The developer should understand the purpose of colliders and how to implement and use different types of colliders329.
+4 - Implement Movement: The developer should be able to implement movement for game objects, including translation, rotation, and following paths418.
+5 - Work with Cameras: The developer should understand how to use cameras in Unity to control the perspective of the game524.
+
+Missions:
+Mission 1 - Game Setup: Create a new Unity project and set up your game scene. Add a spaceship sprite to the scene. This will be your player character.
+Mission 2 - Main Menu: Use the main menu from the previous section. It should have buttons for “Start Game”, “Settings”, “Leaderboard”, and “Quit”.
+Mission 3 - Spaceship Movement: Write a script to control the spaceship’s movement. Use Unity’s physics engine to move the spaceship when the player presses the arrow keys.
+Mission 4 - Obstacles and Colliders: Add obstacles to the game scene and attach colliders to them. When the spaceship collides with an obstacle, the game should end.
+Mission 5 - Camera Control: Attach a camera to the spaceship so that it follows the spaceship as it moves through space.
+Mission 6 - Settings and Leaderboard: Implement a settings panel that allows the player to adjust game settings. Also, implement a leaderboard that displays the top scores.
+Mission 7 - Game Over and Restart: When the game ends, display a “Game Over” message and a button to restart the game.
+Mission 8 - Polish: Add finishing touches to your game. This could include adding animations to the UI, improving the spaceship’s controls, adding more types of obstacles, etc.
