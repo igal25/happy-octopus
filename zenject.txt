@@ -1,0 +1,9 @@
+Goals:
+1 - Understand Zenject: The developer should understand the basics of Zenject, a dependency injection framework for Unity1[1]22.
+2 - Apply Zenject in Unity: The developer should be able to apply Zenject in a Unity project, including setting up dependencies and bindings, injecting dependencies, and using factories1[1]22.
+
+Missions:
+Mission 1 - Learn Zenject Basics: Start by learning the basics of Zenject1[1]22. Understand what dependency injection is and why it’s useful. Learn how to define dependencies and bindings in Zenject.
+Mission 2 - Apply Zenject in “Space Explorer” Game: Apply what you’ve learned about Zenject in the “Space Explorer” game. Set up dependencies and bindings for the different components of the game, such as the spaceship, obstacles, and UI. Use Zenject to inject these dependencies where needed.
+Mission 3 - Use Factories: Learn how to use factories in Zenject to create objects dynamically1[1]22. Implement a factory in the “Space Explorer” game to create obstacles dynamically.
+Mission 4 - Advanced Zenject: Explore more advanced features of Zenject, such as sub-containers, auto-binding, and decorators1[1]22. Try to apply these features in the “Space Explorer” game.
