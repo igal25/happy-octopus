@@ -1,0 +1,14 @@
+Goals:
+1 - Understand Unity’s Rendering Pipeline: The developer should understand how Unity’s rendering pipeline works, including concepts like materials, shaders, lights, cameras, and post-processing effects.
+2 - Master Shaders: The developer should be able to create custom shaders using Unity’s Shader Graph1[1]2[2]33. They should understand how to use nodes to create different shader effects22.
+3 - Master Mesh Renderers: The developer should understand how to use mesh renderers and filters in Unity48. They should know how to render a mesh and how to use shadows, materials, and light probes48.
+4 - Implement Basic Rendering Techniques: The developer should be able to implement basic rendering techniques in Unity, such as creating and applying materials, setting up lights, and using cameras.
+5 - Optimize Rendering Performance: The developer should understand how to optimize rendering performance in Unity, including techniques like batching, culling, and level of detail (LOD).
+
+Missions:
+Mission 1 - Shader Basics: Learn about Unity’s Shader Graph and experiment with creating custom shaders.
+Mission 2 - Mesh Renderer Basics: Learn about Unity’s mesh renderers and filters and experiment with rendering a mesh48.
+Mission 3 - Space Scene: Create a space scene for your game. This should include a starry background, a spaceship (the player character), and obstacles like asteroids. Use different materials, lights, and shaders to make the scene visually appealing.
+Mission 4 - Camera Control: Attach a camera to the spaceship so that it follows the spaceship as it moves through space. Experiment with different camera settings to achieve the desired look and feel for your game.
+Mission 5 - Post-Processing Effects: Add post-processing effects to enhance the visuals of your game. This could include effects like bloom, color grading, depth of field, etc.
+**Mission 6 - Performance Optimization
